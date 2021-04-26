@@ -1,0 +1,2 @@
+# cnsrFileFormatSpecification
+Yes
