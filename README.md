@@ -10,11 +10,13 @@ marks the start of the segment
 example: 00:05:21
 
 end_time 
+-
 the  the ending timestamp
 marks the end of the segment
 example: 00:05:55
 
 type
+-
 can be one of these:
 1 - Violence
 2 - Verbal abuse
