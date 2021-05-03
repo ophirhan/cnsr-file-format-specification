@@ -1,7 +1,7 @@
 # cnsrFileFormatSpecification
-**every line in cnsr file is as follows:
+**every line in cnsr file is as follows:**
 
-**start_time - end_time , type
+**start_time - end_time , type**
 
 # keys:
 start time 
