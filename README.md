@@ -8,7 +8,7 @@ the starting timestamp
 marks the start of the segment
 example: 00:05:21
 
-end_time /n
+end_time 
 the  the ending timestamp
 marks the end of the segment
 example: 00:05:55
