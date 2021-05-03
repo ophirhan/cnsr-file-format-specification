@@ -4,6 +4,7 @@ start_time - end_time , type
 
 # keys:
 start time 
+-
 the starting timestamp
 marks the start of the segment
 example: 00:05:21
