@@ -33,6 +33,6 @@ can be one of these:
 4 - alcohol and drug consumption
 
 # final example:
-a proper line example: 
+a proper line should look like this: 
 
 00:05:21 - 00:05:55 , 2
