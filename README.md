@@ -14,7 +14,7 @@ marks the start of the segment
 
 end_time 
 -
-the  the ending timestamp
+the ending timestamp
 
 marks the end of the segment
 
