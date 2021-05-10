@@ -12,7 +12,7 @@ the starting timestamp
 
 marks the start of the segment
 
-**example**: 00:05:21,123 
+**example**: 00:05:21,123 (miliseconds)
 
 end_time 
 -
@@ -20,7 +20,7 @@ the ending timestamp
 
 marks the end of the segment
 
-**example**: 00:05:55,124
+**example**: 00:05:55,124 (miliseconds)
 
 type
 -
