@@ -3,7 +3,7 @@
 
 **start_time - end_time ; type**
 
-white-space characters are ignored* 
+-white-space characters are ignored-
 
 # keys:
 start time 
