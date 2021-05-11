@@ -3,6 +3,8 @@
 
 **start_time - end_time ; type**
 
+-important! the file should be ordered by starting times! 
+
 -white-space characters are ignored-
 
 # keys:
