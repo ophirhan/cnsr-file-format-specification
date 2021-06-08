@@ -7,6 +7,8 @@
 
 -white-space characters are ignored-
 
+-time stamp collision is supported-
+
 # keys:
 start time 
 -
